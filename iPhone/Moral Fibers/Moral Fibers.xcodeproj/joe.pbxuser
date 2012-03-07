@@ -1,0 +1,314 @@
+// !$*UTF8*$!
+{
+	D8080462133C1410001108A8 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D8425C3113404FC400973E4B /* Moral Fibers */;
+		activeTarget = D808046A133C1410001108A8 /* Moral Fibers */;
+		breakpoints = (
+			D8CA494313CCEE970085DF02 /* ArtistOfTheDayViewController.m:116 */,
+		);
+		codeSenseManager = D8425C5B13404FF400973E4B /* Code sense */;
+		executables = (
+			D8425C3113404FC400973E4B /* Moral Fibers */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					877,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1433,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 332267737;
+			PBXWorkspaceStateSaveDate = 332267737;
+		};
+		perUserProjectItems = {
+			D8425C5413404FF400973E4B /* PBXTextBookmark */ = D8425C5413404FF400973E4B /* PBXTextBookmark */;
+			D897E7FC1372057C00C39F78 /* PBXTextBookmark */ = D897E7FC1372057C00C39F78 /* PBXTextBookmark */;
+			D8BA03BB13CE00EE005BA9F5 /* PBXTextBookmark */ = D8BA03BB13CE00EE005BA9F5 /* PBXTextBookmark */;
+			D8BA03BC13CE00EE005BA9F5 /* PBXTextBookmark */ = D8BA03BC13CE00EE005BA9F5 /* PBXTextBookmark */;
+			D8BA03DF13CE026A005BA9F5 /* PBXTextBookmark */ = D8BA03DF13CE026A005BA9F5 /* PBXTextBookmark */;
+			D8BA03E013CE026A005BA9F5 /* PBXTextBookmark */ = D8BA03E013CE026A005BA9F5 /* PBXTextBookmark */;
+			D8BA040D13CE05AC005BA9F5 /* PBXTextBookmark */ = D8BA040D13CE05AC005BA9F5 /* PBXTextBookmark */;
+			D8C73C3013B3F44B002D9286 /* PBXTextBookmark */ = D8C73C3013B3F44B002D9286 /* PBXTextBookmark */;
+			D8CA496113CCF2640085DF02 /* PBXTextBookmark */ = D8CA496113CCF2640085DF02 /* PBXTextBookmark */;
+			D8CA497113CCF34E0085DF02 /* PBXTextBookmark */ = D8CA497113CCF34E0085DF02 /* PBXTextBookmark */;
+		};
+		sourceControlManager = D8425C5A13404FF400973E4B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	D808046A133C1410001108A8 /* Moral Fibers */ = {
+		activeExec = 0;
+		executables = (
+			D8425C3113404FC400973E4B /* Moral Fibers */,
+		);
+	};
+	D808047B133C1410001108A8 /* Moral Fibers-Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1187, 945}}";
+			sepNavSelRange = "{429, 0}";
+			sepNavVisRange = "{0, 1371}";
+			sepNavWindowFrame = "{{674, 0}, {1246, 1058}}";
+		};
+	};
+	D808047F133C1410001108A8 /* Moral_FibersAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 1183}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2463}";
+		};
+	};
+	D8080485133C1410001108A8 /* FirstViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 1131}}";
+			sepNavSelRange = "{2123, 0}";
+			sepNavVisRange = "{0, 2320}";
+			sepNavWindowFrame = "{{1935, 7}, {1269, 1068}}";
+		};
+	};
+	D8425C3113404FC400973E4B /* Moral Fibers */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Moral Fibers";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	D8425C5413404FF400973E4B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D8C231AC1340391300655ED5 /* RateArtistsTableViewCell.m */;
+		name = "RateArtistsTableViewCell.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 693;
+		vrLoc = 0;
+	};
+	D8425C5A13404FF400973E4B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D8425C5B13404FF400973E4B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D85EA79B1344B87F000DB1D7 /* TwitterTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 978}}";
+			sepNavSelRange = "{465, 29}";
+			sepNavVisRange = "{0, 916}";
+		};
+	};
+	D85EA79C1344B87F000DB1D7 /* TwitterTableViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{7239, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{7290, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{7340, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 8008}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 3367}}";
+			sepNavSelRange = "{7884, 58}";
+			sepNavVisRange = "{5043, 2908}";
+		};
+	};
+	D897E7FC1372057C00C39F78 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D8C231AB1340391300655ED5 /* RateArtistsTableViewCell.h */;
+		name = "RateArtistsTableViewCell.h: 11";
+		rLen = 7;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 626;
+		vrLoc = 0;
+	};
+	D8BA03BB13CE00EE005BA9F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D8C2319713402EC200655ED5 /* ArtistOfTheDayViewController.m */;
+		name = "ArtistOfTheDayViewController.m: 22";
+		rLen = 0;
+		rLoc = 580;
+		rType = 0;
+		vrLen = 2393;
+		vrLoc = 164;
+	};
+	D8BA03BC13CE00EE005BA9F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D85EA79B1344B87F000DB1D7 /* TwitterTableViewController.h */;
+		name = "TwitterTableViewController.h: 15";
+		rLen = 29;
+		rLoc = 465;
+		rType = 0;
+		vrLen = 916;
+		vrLoc = 0;
+	};
+	D8BA03DF13CE026A005BA9F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D85EA79C1344B87F000DB1D7 /* TwitterTableViewController.m */;
+		name = "TwitterTableViewController.m: 249";
+		rLen = 58;
+		rLoc = 7941;
+		rType = 0;
+		vrLen = 2965;
+		vrLoc = 5043;
+	};
+	D8BA03E013CE026A005BA9F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D8080485133C1410001108A8 /* FirstViewController.m */;
+		name = "FirstViewController.m: 67";
+		rLen = 0;
+		rLoc = 2123;
+		rType = 0;
+		vrLen = 2216;
+		vrLoc = 188;
+	};
+	D8BA040D13CE05AC005BA9F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D8080485133C1410001108A8 /* FirstViewController.m */;
+		name = "FirstViewController.m: 67";
+		rLen = 0;
+		rLoc = 2123;
+		rType = 0;
+		vrLen = 2320;
+		vrLoc = 0;
+	};
+	D8C2319613402EC200655ED5 /* ArtistOfTheDayViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 978}}";
+			sepNavSelRange = "{393, 0}";
+			sepNavVisRange = "{0, 436}";
+		};
+	};
+	D8C2319713402EC200655ED5 /* ArtistOfTheDayViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = \"(NSString *)\";\n            r = \"{2166, 16}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 4652}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 1950}}";
+			sepNavSelRange = "{580, 0}";
+			sepNavVisRange = "{164, 2378}";
+		};
+	};
+	D8C231AB1340391300655ED5 /* RateArtistsTableViewCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1462, 683}}";
+			sepNavSelRange = "{241, 7}";
+			sepNavVisRange = "{0, 626}";
+		};
+	};
+	D8C231AC1340391300655ED5 /* RateArtistsTableViewCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 697}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 693}";
+		};
+	};
+	D8C73C3013B3F44B002D9286 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D808047F133C1410001108A8 /* Moral_FibersAppDelegate.m */;
+		name = "Moral_FibersAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2463;
+		vrLoc = 0;
+	};
+	D8CA494313CCEE970085DF02 /* ArtistOfTheDayViewController.m:116 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = D8C2319713402EC200655ED5 /* ArtistOfTheDayViewController.m */;
+		functionName = "-requestFinished:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 116;
+		modificationTime = 332268296.910949;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	D8CA496113CCF2640085DF02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D808047B133C1410001108A8 /* Moral Fibers-Prefix.pch */;
+		name = "Moral Fibers-Prefix.pch: 17";
+		rLen = 0;
+		rLoc = 409;
+		rType = 0;
+		vrLen = 1297;
+		vrLoc = 0;
+	};
+	D8CA497113CCF34E0085DF02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D8C2319613402EC200655ED5 /* ArtistOfTheDayViewController.h */;
+		name = "ArtistOfTheDayViewController.h: 16";
+		rLen = 0;
+		rLoc = 393;
+		rType = 0;
+		vrLen = 436;
+		vrLoc = 0;
+	};
+}

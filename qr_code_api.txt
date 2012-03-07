@@ -1,0 +1,5 @@
+QR code
+Do a search.nodes on the title of the QR code
+that returns a node ID
+make sure update is set to ANYTHING
+active=Active

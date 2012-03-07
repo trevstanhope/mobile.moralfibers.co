@@ -1,0 +1,80 @@
+//
+// Prefix header for all source files of the 'Moral Fibers' target in the 'Moral Fibers' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+//classes that we should use across the board
+#import "UIImageView+WebCache.h"
+
+#define kBaseURL		@"http://moralfibers.co/"
+#define kAPIURL			@"http://moralfibers.co/services/json"
+#define kAPIKey			@"75e97c38b2b4f3bca0a320f3a7eec7f0"
+#define kAPIDomain		@"iphone"
+
+#define kNodeURL		@"http://moralfibers.co/iphone/node.php?nid="
+#define kNodeByTitleURL @"http://moralfibers.co/iphone/node.php?title="
+#define kNodeViewURL	@"http://moralfibers.co/node/"
+
+#define kSessionID		@"MoralFibersSessionID"
+
+//json keys when connecting to the api
+#define kSession		@"sessid"
+#define kMethod			@"method"
+#define kAPI			@"api_key"
+#define kHash			@"hash"
+#define kDomain			@"domain_name"
+#define kViewName		@"view_name"
+#define kSearchKeys		@"search_keys"
+
+//method names we can call on the server
+#define kConnect		@"\"system.connect\""
+#define kNodeGet		@"\"node.view\""
+#define kGetView		@"\"views.get\""
+#define kTaxonomy		@"\"taxonomy.get\""
+#define kFileGet		@"\"file.get\""
+#define kNodeSearch		@"\"search.nodes\""
+#define kUserLogin      @"\"user.login\""
+
+
+//a list of views we can get
+#define kAotM			@"\"artist_of_month\""
+#define kMenShirts		@"\"mens_styles\""
+#define kWomenShirts	@"\"womens_styles\""
+
+//json keys
+#define kDataKey		@"#data"
+#define kErrorKey		@"#error"
+#define kSessionKey		@"sessid"
+#define kNodeTitle		@"node_title"
+#define kNodeID			@"nid"
+#define kFileID			@"fid"
+#define kArtistPics		@"field_artist_featured_image"
+#define kPicPath		@"filepath"
+#define kUsername       @"username"
+#define kPassword       @"password"
+
+//set some global sizes
+#define kNavFontSize	25.0
+#define kButtonSize		18.0
+
+//json fields for QR codes we are sending up
+#define qrTitleKey		@"title"
+#define qrTypeKey		@"type"
+#define qrTypeValue		@"qr"
+#define qrEnabledKey	@"enabled"
+#define qrEnabledValue	@"Active"
+
+//NSUserDefaults keys
+#define kNSDUsername       @"mf_username"
+#define kNSDPassword       @"mf_password"
+#define kWorkingLogin   @"mf_active_valid_login"

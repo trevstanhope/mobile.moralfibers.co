@@ -1,0 +1,20 @@
+* Artist of the Month
+
+There is a view with the machine name "artist_of_month" that you can
+retrieve with the views.get method.
+
+1) curl --data 'method="views.get"' --data 'view_name="artist_of_month"' --data api_key=75e97c38b2b4f3bca0a320f3a7eec7f0 --data domain=iphone http://moralfibers.co/services/json
+
+2) curl --data 'method="node.get"' --data 'nid="160"' --data api_key=75e97c38b2b4f3bca0a320f3a7eec7f0 --data domain=iphone http://moralfibers.co/services/json
+
+***** Replace nid with nid returned by first call
+
+* Product Listing
+
+As for product listing, you will
+need to do a join on a taxonomy.get (for men or womens shirts) with
+node.get for nodes of the type "product".
+
+* QR Codes
+
+What needs to be called for this?!
